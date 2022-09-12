@@ -4,9 +4,19 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
-(function() {
+document.addEventListener('DOMContentLoaded', () => {
   "use strict";
 
+
+	/**
+   * Preloader
+   */
+	 const preloader = document.querySelector('#preloader');
+	 if (preloader) {
+		 window.addEventListener('load', () => {
+			 preloader.remove();
+		 });
+	 }
   /**
    * Easy selector helper function
    */
