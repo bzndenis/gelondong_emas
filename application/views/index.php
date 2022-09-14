@@ -25,8 +25,8 @@
       <div class="container" data-aos="fade-up">
 			<div class="section-title">
           <h2>Tentang Kami</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.</p>
-        </div>
+          <p>Gelondong emas leonardi adalah pengrajin besi terkemuka Indonesia. Kami adalah perusahaan yang bergerak di bidang manufaktur kusus produk pengolah emas dengan bahan berkualitas tinggi. Kami bergerak sejak tahun 2006 hingga saat ini.
+</p></div>
         
 
         <div class="tab-content">
@@ -50,7 +50,7 @@
                 </p>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center" data-aos="fade-up" data-aos-delay="200">
-                <img src="assets/img/tabs-1.jpg" alt="" class="img-fluid">
+                <img src="assets/img/tabs-1.png" alt="" class="img-fluid">
               </div>
             </div>
           </div>
