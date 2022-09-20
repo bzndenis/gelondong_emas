@@ -78,16 +78,16 @@
       "position":"right"
   },
   "brandSetting":{
-      "brandName":"WATI",
-      "brandSubTitle":"Typically replies within a day",
-      "brandImg":"",
-      "welcomeText":"Hi there!\nHow can I help you?",
-      "messageText":"Hello, I have a question about {{page_link}}",
+      "brandName":"Gelondong Emas Leonardi",
+      "brandSubTitle":"",
+      "brandImg":"assets/img/logo.png",
+      "welcomeText":"Hallo!\nAda yang bisa di bantu?",
+      "messageText":"Halo, saya ada pertanyaan tentang {{page_link}}",
       "backgroundColor":"#0a5f54",
-      "ctaText":"Start Chat",
+      "ctaText":"Chat Sekarang",
       "borderRadius":"25",
       "autoShow":false,
-      "phoneNumber":"6281295619947"
+      "phoneNumber":"6281211121747"
   }
 };
     s.onload = function() {
