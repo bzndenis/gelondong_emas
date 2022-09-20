@@ -82,14 +82,14 @@
           </div>
           <div class="col-md-6 mt-4 mt-md-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
-              <i class="bi bi-bar-chart"></i>
+              <i class="bi bi-person"></i>
               <h4><a href="#">Komitmen</a></h4>
               <p>Komitmen itu penting dimana kami akan terus memberikan yang terbaik kepada pelanggan dan investor kami sepanjang waktu. Kesempatan kita untuk melayani hendaknya dipandang sebagai hak istimewa yang tidak boleh diabaikan begitu saja.</p>
             </div>
           </div>
           <div class="col-md-6 mt-4 mt-md-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
-              <i class="bi bi-binoculars"></i>
+              <i class="bi bi-lightbulb"></i>
               <h4><a href="#">Inovasi</a></h4>
               <p>Inovasi berarti menciptakan, merancang, dan mengembangkan produk dan layanan yang memiliki daya tarik tinggi di pasar dan memperkuat preferensi pelanggan untuk proyek Gelondong Emas Leonardi.</p>
             </div>
