@@ -6,7 +6,7 @@
     <div class="container" data-aos="zoom-out" data-aos-delay="100">
       <div class="row">
         <div class="col-xl-6">
-          <h1>Gelondong Emas Leonardi</h1>
+          <!-- <h1>Gelondong Emas Leonardi</h1> -->
           <h2>Gelondongan Emas Terpercaya Sejak Tahun 2006</h2>
           <a href="#tabs" class="btn-get-started scrollto">Pelajari Lebih Lanjut</a>
         </div>
@@ -82,14 +82,14 @@
           </div>
           <div class="col-md-6 mt-4 mt-md-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
-              <i class="bi bi-bar-chart"></i>
+              <i class="bi bi-person"></i>
               <h4><a href="#">Komitmen</a></h4>
               <p>Komitmen itu penting dimana kami akan terus memberikan yang terbaik kepada pelanggan dan investor kami sepanjang waktu. Kesempatan kita untuk melayani hendaknya dipandang sebagai hak istimewa yang tidak boleh diabaikan begitu saja.</p>
             </div>
           </div>
           <div class="col-md-6 mt-4 mt-md-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
-              <i class="bi bi-binoculars"></i>
+              <i class="bi bi-lightbulb"></i>
               <h4><a href="#">Inovasi</a></h4>
               <p>Inovasi berarti menciptakan, merancang, dan mengembangkan produk dan layanan yang memiliki daya tarik tinggi di pasar dan memperkuat preferensi pelanggan untuk proyek Gelondong Emas Leonardi.</p>
             </div>
@@ -339,7 +339,7 @@
 
         <div class="section-title">
           <h2>Kontak Kami</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.</p>
+          <p></p>
         </div>
 
         <div class="row" data-aos="fade-up" data-aos-delay="100">
@@ -350,8 +350,8 @@
               <div class="col-md-12">
                 <div class="info-box">
                   <i class="bx bx-map"></i>
-                  <h3>Our Address</h3>
-                  <p>A108 Adam Street, New York, NY 535022</p>
+                  <h3>Alamat</h3>
+                  <p>Jl. Raya Tanjakan Cinangneng no 63, Kel. Cibanteng, kec. Ciampea. 16620, Bogor, Jawa Barat.</p>
                 </div>
               </div>
               <div class="col-md-6">
@@ -364,8 +364,8 @@
               <div class="col-md-6">
                 <div class="info-box mt-4">
                   <i class="bx bx-phone-call"></i>
-                  <h3>Call Us</h3>
-                  <p>+1 5589 55488 55<br>+1 6678 254445 41</p>
+                  <h3>Kontak Kami</h3>
+                  <p>+62 812-1112-1747<br>Hilwa</p>
                 </div>
               </div>
             </div>
@@ -376,24 +376,24 @@
             <form action="forms/contact.php" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="col form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Nama" required>
                 </div>
                 <div class="col form-group">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Email" required>
                 </div>
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Judul Pesan" required>
               </div>
               <div class="form-group">
-                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+                <textarea class="form-control" name="message" rows="5" placeholder="Pesan" required></textarea>
               </div>
               <div class="my-3">
                 <div class="loading">Loading</div>
                 <div class="error-message"></div>
                 <div class="sent-message">Your message has been sent. Thank you!</div>
               </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
+              <div class="text-center"><button type="submit">Kirim Pesan</button></div>
             </form>
           </div>
 
