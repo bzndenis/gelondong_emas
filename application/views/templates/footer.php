@@ -8,16 +8,16 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h3>Gelondong Emas<span>.</span></h3>
             <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br><br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
+						Jl. Raya Tanjakan Cinangneng no 63<br>
+						Kel. Cibanteng, kec. Ciampea. 16620<br>
+						Bogor, Jawa Barat. <br><br>
+              <strong>Phone:</strong> +62 812-1112-1747<br>
+              <strong>CP:</strong> Hilwa<br>
             </p>
           </div>
 
           <div class="col-lg-2 col-md-6 footer-links">
-            <h4>Useful Links</h4>
+            <h4>Sitemap</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#hero">Beranda</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#tabs">Tentang Kami</a></li>
@@ -27,7 +27,7 @@
             </ul>
           </div>
 
-          <div class="col-lg-3 col-md-6 footer-links">
+          <!-- <div class="col-lg-3 col-md-6 footer-links">
             <h4>Our Services</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
@@ -36,7 +36,7 @@
               <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
             </ul>
-          </div>
+          </div> -->
 
           
 
@@ -82,7 +82,7 @@
       "brandSubTitle":"",
       "brandImg":"assets/img/logo.png",
       "welcomeText":"Hallo!\nAda yang bisa di bantu?",
-      "messageText":"Halo, saya ada pertanyaan tentang {{page_link}}",
+      "messageText":"Halo, saya tertarik dengan produk anda dan saya ingin memesan.",
       "backgroundColor":"#0a5f54",
       "ctaText":"Chat Sekarang",
       "borderRadius":"25",
