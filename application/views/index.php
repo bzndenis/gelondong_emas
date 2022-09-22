@@ -63,33 +63,36 @@
 
       <div class="section-title">
         <h2>Fitur Pelayanan</h2>
-      </div>
-
+      </div>			
       <div class="row">
         <div class="col-md-6">
           <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-            <i class="bi bi-briefcase"></i>
+            <!-- <i class="bi bi-briefcase"></i> -->
+						<img src="assets/img/fitur/Integritas.svg" alt="" class="rounded mx-auto d-block img-fluid">
             <h4><a href="#">Integritas</a></h4>
             <p>Integritas berarti kebenaran, menepati janji, dan memperlakukan orang lain dengan adil dan hormat. Integritas adalah salah satu aset kita yang paling berharga. Itu tidak boleh dikompromikan. </p>
           </div>
         </div>
         <div class="col-md-6 mt-4 mt-md-0">
           <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
-            <i class="bi bi-card-checklist"></i>
+            <!-- <i class="bi bi-card-checklist"></i> -->
+						<img src="assets/img/fitur/Kualitas.svg" alt="" class="rounded mx-auto d-block">
             <h4><a href="#">Kualitas</a></h4>
             <p>Kualitas ditunjukkan dalam banyak cara dengan menjual dan mendukung produk dan layanan yang menyenangkan pelanggan, membangun lingkungan kerja, dan memberikan hasil keuangan yang memenuhi harapan investor.</p>
           </div>
         </div>
         <div class="col-md-6 mt-4 mt-md-0">
           <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
-            <i class="bi bi-person"></i>
+            <!-- <i class="bi bi-person"></i> -->
+						<img src="assets/img/fitur/Komitmen.svg" alt="" class="rounded mx-auto d-block">
             <h4><a href="#">Komitmen</a></h4>
             <p>Komitmen itu penting dimana kami akan terus memberikan yang terbaik kepada pelanggan dan investor kami sepanjang waktu. Kesempatan kita untuk melayani hendaknya dipandang sebagai hak istimewa yang tidak boleh diabaikan begitu saja.</p>
           </div>
         </div>
         <div class="col-md-6 mt-4 mt-md-0">
           <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
-            <i class="bi bi-lightbulb"></i>
+            <!-- <i class="bi bi-lightbulb"></i> -->
+						<img src="assets/img/fitur/Inovasi.svg" alt="" class="rounded mx-auto d-block">
             <h4><a href="#">Inovasi</a></h4>
             <p>Inovasi berarti menciptakan, merancang, dan mengembangkan produk dan layanan yang memiliki daya tarik tinggi di pasar dan memperkuat preferensi pelanggan untuk proyek Gelondong Emas Leonardi.</p>
           </div>
