@@ -27,6 +27,10 @@
             </ul>
           </div>
 
+					<div class="col-lg-3 col-md-6 footer-contact">
+					<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d495.46467167358065!2d106.7069928!3d-6.557318!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69db5b72e298cf%3A0xa77b46460f50df16!2sJl.%20Raya%20Tanjakan%20Cinangneng%20No.63%2C%20Cibanteng%2C%20Kec.%20Ciampea%2C%20Kabupaten%20Bogor%2C%20Jawa%20Barat%2016620!5e0!3m2!1sid!2sid!4v1663841381382!5m2!1sid!2sid" width="355" height="355" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+					</div>
+
           <!-- <div class="col-lg-3 col-md-6 footer-links">
             <h4>Our Services</h4>
             <ul>

@@ -5,7 +5,8 @@
     <div class="row">
       <div class="col-xl-6">
         <!-- <h1>Gelondong Emas Leonardi</h1> -->
-        <h2>Gelondongan Emas Terpercaya Sejak Tahun 2006</h2>
+				<img src="assets/img/logo_home.png" alt="" class="img-fluid ">
+        <h2>Terpercaya Sejak Tahun 2006</h2>
         <a href="#tabs" class="btn-get-started scrollto">Pelajari Lebih Lanjut</a>
       </div>
     </div>
@@ -118,100 +119,132 @@
 
       <div class="section-title">
         <h2>Galeri</h2>
-        <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.</p> -->
+        <p>Produsen gelondong emas Gelondong Emas Leonardi berlokasi di Jawa Barat, Indonesia. Kami hanya memproduksi gelondong emas dari besi lokal kualitas terbaik. Sangat cocok untuk keperluan pertambangan di tempat yang terpencil maupun terbuka seperti pertambangan emas yang sudah besar.</p>
       </div>
 
-      <!-- <div class="row" data-aos="fade-up" data-aos-delay="100">
+      <div class="row" data-aos="fade-up" data-aos-delay="100">
         <div class="col-lg-12 d-flex justify-content-center">
           <ul id="portfolio-flters">
-            <li data-filter="*" class="filter-active">All</li>
-            <li data-filter=".filter-app">App</li>
-            <li data-filter=".filter-card">Card</li>
-            <li data-filter=".filter-web">Web</li>
+            <li data-filter="*" class="filter-active">Semua</li>
+            <li data-filter=".filter-app">Produk</li>
+            <li data-filter=".filter-card">Pabrik</li>
+            <!-- <li data-filter=".filter-web">Pabrik</li> -->
           </ul>
         </div>
-      </div> -->
+      </div>
 
       <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Gelondong emas</h4>
+            <img src="assets/img/galery/p1.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">              
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-search"></i></a>
-                <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-          <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Tempat kerja</h4>
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-search"></i></a>
-                <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-          <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Keseharian</h4>
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-search"></i></a>
-                <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+                <a href="assets/img/galery/p1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-search"></i></a>
+                <!--  -->
               </div>
             </div>
           </div>
         </div>
 
-        <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+				<div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Web 3</h4>
-              <p>Web</p>
+            <img src="assets/img/galery/p2.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">              
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/galery/p2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-search"></i></a>
+                <!--  -->
               </div>
             </div>
           </div>
-        </div> -->
+        </div>
 
-        <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+				<div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Card 2</h4>
-              <p>Card</p>
+            <img src="assets/img/galery/p3.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">              
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/galery/p3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-search"></i></a>
+                <!--  -->
               </div>
             </div>
           </div>
-        </div> -->
+        </div>
 
-        <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+				<div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>App 3</h4>
-              <p>App</p>
+            <img src="assets/img/galery/p4.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">              
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/galery/p4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-search"></i></a>
+                <!--  -->
               </div>
             </div>
           </div>
-        </div> -->
+        </div>
+
+				<div class="col-lg-4 col-md-6 portfolio-item filter-app">
+          <div class="portfolio-wrap">
+            <img src="assets/img/galery/p5.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">              
+              <div class="portfolio-links">
+                <a href="assets/img/galery/p5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-search"></i></a>
+                <!--  -->
+              </div>
+            </div>
+          </div>
+        </div>
+
+				    
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+          <div class="portfolio-wrap">
+            <img src="assets/img/galery/pb1.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <div class="portfolio-links">
+                <a href="assets/img/galery/pb1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-search"></i></a> 
+              </div>
+            </div>
+          </div>
+        </div> 
+
+				<div class="col-lg-4 col-md-6 portfolio-item filter-card">
+          <div class="portfolio-wrap">
+            <img src="assets/img/galery/pb2.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <div class="portfolio-links">
+                <a href="assets/img/galery/pb2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-search"></i></a> 
+              </div>
+            </div>
+          </div>
+        </div> 
+
+				<div class="col-lg-4 col-md-6 portfolio-item filter-card">
+          <div class="portfolio-wrap">
+            <img src="assets/img/galery/pb3.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <div class="portfolio-links">
+                <a href="assets/img/galery/pb3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-search"></i></a> 
+              </div>
+            </div>
+          </div>
+        </div> 
+
+				<div class="col-lg-4 col-md-6 portfolio-item filter-card">
+          <div class="portfolio-wrap">
+            <img src="assets/img/galery/pb4.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <div class="portfolio-links">
+                <a href="assets/img/galery/pb4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-search"></i></a> 
+              </div>
+            </div>
+          </div>
+        </div> 
+
+				
+
+      
+				
 
       </div>
 
@@ -219,18 +252,18 @@
   </section><!-- End Portfolio Section -->
 
   <!-- ======= Pricing Section ======= -->
-  <section id="pricing" class="pricing section-bg">
+  <!-- <section id="pricing" class="pricing section-bg">
     <div class="container" data-aos="fade-up">
 
       <div class="section-title">
         <h2>Produk</h2>
-        <!-- <p>Gelondong Emas adalah alat pengolah emas yang terbuat dari besi pilihan berkualitas dan kuat seperti pipa, plat dan behel yang di potong dan di haluskan dengan berbagai peralatan terbaik kami.</p> -->
+        <p>Gelondong Emas adalah alat pengolah emas yang terbuat dari besi pilihan berkualitas dan kuat seperti pipa, plat dan behel yang di potong dan di haluskan dengan berbagai peralatan terbaik kami.</p>
       </div>
 
       <div class="row">
 
         <div class="col-lg-4 col-md-6">
-          <!-- <div class="box" data-aos="fade-up" data-aos-delay="100">
+          <div class="box" data-aos="fade-up" data-aos-delay="100">
             <h3>Free</h3>
             <h4><sup>$</sup>0<span> / month</span></h4>
             <ul>
@@ -243,29 +276,34 @@
             <div class="btn-wrap">
               <a href="#" class="btn-buy">Buy Now</a>
             </div>
-          </div> -->
+          </div> 
         </div>
 
         <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
           <div class="box featured" data-aos="fade-up" data-aos-delay="200">
             <h3>Gelondong Emas</h3>
             <h4><sup>IDR</sup>3<span> Juta</span></h4>
-						<p>Gelondong Emas adalah alat pengolah emas yang terbuat dari besi pilihan berkualitas dan kuat seperti pipa, plat dan behel yang di potong dan di haluskan dengan berbagai peralatan terbaik kami.</p>
-            <!-- <ul>
+						<p></p>
+            <ul>
               <li>Aida dere</li>
               <li>Nec feugiat nisl</li>
               <li>Nulla at volutpat dola</li>
               <li>Pharetra massa</li>
               <li class="na">Massa ultricies mi</li>
-            </ul> -->
+            </ul> 
             <div class="btn-wrap">
               <a href="https://wa.me/+6281211121747" target="_blank" class="btn-buy">Buy Now</a>
             </div>
           </div>
         </div>
 
+				<div class="section-title">
+         <h2>Produk</h2><br>
+        <p>Produsen gelondong emas Gelondong Emas Leonardi berlokasi di Jawa Barat, Indonesia. Kami hanya memproduksi gelondong emas dari besi lokal kualitas terbaik. Sangat cocok untuk keperluan pertambangan di tempat yang terpencil maupun terbuka seperti pertambangan emas yang sudah besar.</p>
+      </div>
+
         <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
-          <!-- <div class="box" data-aos="fade-up" data-aos-delay="300">
+           <div class="box" data-aos="fade-up" data-aos-delay="300">
             <h3>Developer</h3>
             <h4><sup>$</sup>29<span> / month</span></h4>
             <ul>
@@ -278,13 +316,13 @@
             <div class="btn-wrap">
               <a href="#" class="btn-buy">Buy Now</a>
             </div>
-          </div> -->
+          </div> 
         </div>
 
       </div>
 
     </div>
-  </section><!-- End Pricing Section -->
+  </section>End Pricing Section -->
 
   <!-- ======= Contact Section ======= -->
   <section id="contact" class="contact">
@@ -297,7 +335,7 @@
 
       <div class="row" data-aos="fade-up" data-aos-delay="100">
 
-        <div class="col-lg-6">
+        <div class="col-lg-20">
 
           <div class="row">
             <div class="col-md-12">
@@ -325,7 +363,7 @@
 
         </div>
 
-        <div class="col-lg-6">
+        <!-- <div class="col-lg-6">
           <form action="forms/contact.php" method="post" role="form" class="php-email-form">
             <div class="row">
               <div class="col form-group">
@@ -348,14 +386,14 @@
             </div>
             <div class="text-center"><button type="submit">Kirim Pesan</button></div>
           </form>
-        </div>
+        </div> -->
 
       </div>
 
     </div>
   </section><!-- End Contact Section -->
-  </div class="whatsapp_float">
+  <!-- </div class="whatsapp_float">
   <a href="https://wa.me/089762873617?text=Assalamu%27alaikum%2C%20perkenalkan%20nama%20saya....." target="_blank"><img src="assets/img/wa.png" width="50px" class="whatsapp_float_btn" alt=""></a>
-  </div>
+  </div> -->
 
 </main><!-- End #main -->
