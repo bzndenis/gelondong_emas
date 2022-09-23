@@ -8,11 +8,11 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h3>Gelondong Emas<span>.</span></h3>
             <p>
-						Jl. Raya Tanjakan Cinangneng no 63<br>
-						Kel. Cibanteng, kec. Ciampea. 16620<br>
-						Bogor, Jawa Barat. <br><br>
+						Jl. Raya Tanjakan Cinangneng No 63<br>
+						Kel. Cibanteng, Kec. Ciampea.<br>
+						Bogor, Jawa Barat. 16620.<br><br>
               <strong>Phone:</strong> +62 812-1112-1747<br>
-              <strong>CP:</strong> Hilwa<br>
+              <strong>CP:</strong> Hilwa Mumtaza<br>
             </p>
           </div>
 

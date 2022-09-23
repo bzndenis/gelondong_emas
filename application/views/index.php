@@ -345,7 +345,7 @@
               <div class="info-box">
                 <!-- <i class="bx bx-map"></i> -->
                 <h3>Alamat</h3>
-                <p>Jl. Raya Tanjakan Cinangneng no 63, Kel. Cibanteng, kec. Ciampea. 16620, Bogor, Jawa Barat.</p>
+                <p>Jl. Raya Tanjakan Cinangneng No 63, Kel. Cibanteng, Kec. Ciampea. Bogor, Jawa Barat. 16620.</p>
               </div>
             </div>
             <div class="col-md-6">
@@ -359,7 +359,7 @@
               <div class="info-box mt-4">
                 <i class="bx bx-phone-call"></i>
                 <h3>Kontak Kami</h3>
-                <p>+62 812-1112-1747<br>Hilwa</p>
+                <p>+62 812-1112-1747<br>Hilwa Mumtaza</p>
               </div>
             </div>
           </div>
