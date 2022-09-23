@@ -205,7 +205,7 @@
             <img src="assets/img/galery/pb1.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
               <div class="portfolio-links">
-                <a href="assets/img/galery/pb1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-search"></i></a> 
+                <a href="assets/img/galery/pb1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" ><i class="bx bx-search"></i></a> 
               </div>
             </div>
           </div>
@@ -216,7 +216,7 @@
             <img src="assets/img/galery/pb2.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
               <div class="portfolio-links">
-                <a href="assets/img/galery/pb2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-search"></i></a> 
+                <a href="assets/img/galery/pb2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" ><i class="bx bx-search"></i></a> 
               </div>
             </div>
           </div>
@@ -227,7 +227,7 @@
             <img src="assets/img/galery/pb3.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
               <div class="portfolio-links">
-                <a href="assets/img/galery/pb3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-search"></i></a> 
+                <a href="assets/img/galery/pb3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" ><i class="bx bx-search"></i></a> 
               </div>
             </div>
           </div>
@@ -238,7 +238,7 @@
             <img src="assets/img/galery/pb4.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
               <div class="portfolio-links">
-                <a href="assets/img/galery/pb4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-search"></i></a> 
+                <a href="assets/img/galery/pb4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" ><i class="bx bx-search"></i></a> 
               </div>
             </div>
           </div>
