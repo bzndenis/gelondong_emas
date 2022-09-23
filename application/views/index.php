@@ -24,7 +24,7 @@
     <div class="container" data-aos="fade-up">
       <div class="section-title">
         <h2>Tentang Kami</h2>
-        <p>Gelondong emas Leonardi adalah pengrajin besi terkemuka Indonesia. Kami adalah perusahaan yang bergerak di bidang manufaktur kusus produk pengolah emas dengan bahan berkualitas tinggi. Kami bergerak sejak tahun 2006 hingga saat ini
+        <p>Gelondong emas Leonardi adalah pengrajin besi terkemuka di Indonesia. Kami adalah perusahaan yang bergerak di bidang manufaktur kusus produk pengolah emas dengan bahan berkualitas tinggi. Kami bergerak sejak tahun 2006 hingga saat ini
         </p>
       </div>
 
@@ -122,7 +122,7 @@
 
       <div class="section-title">
         <h2>Galeri</h2>
-        <p>Produsen gelondong emas Gelondong Emas Leonardi berlokasi di Jawa Barat, Indonesia. Kami hanya memproduksi gelondong emas dari besi lokal kualitas terbaik. Sangat cocok untuk keperluan pertambangan di tempat yang terpencil maupun terbuka seperti pertambangan emas yang sudah besar.</p>
+        <p>Produsen gelondong Leonardi berlokasi di Jawa Barat, Indonesia. Kami hanya memproduksi gelondong emas dari besi lokal kualitas terbaik. Sangat cocok untuk keperluan pertambangan di tempat yang terpencil maupun terbuka seperti pertambangan emas yang sudah besar.</p>
       </div>
 
       <div class="row" data-aos="fade-up" data-aos-delay="100">
@@ -205,7 +205,7 @@
             <img src="assets/img/galery/pb1.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
               <div class="portfolio-links">
-                <a href="assets/img/galery/pb1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" ><i class="bx bx-search"></i></a> 
+                <a href="assets/img/galery/pb1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-search"></i></a> 
               </div>
             </div>
           </div>
@@ -216,7 +216,7 @@
             <img src="assets/img/galery/pb2.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
               <div class="portfolio-links">
-                <a href="assets/img/galery/pb2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" ><i class="bx bx-search"></i></a> 
+                <a href="assets/img/galery/pb2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-search"></i></a> 
               </div>
             </div>
           </div>
@@ -227,7 +227,7 @@
             <img src="assets/img/galery/pb3.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
               <div class="portfolio-links">
-                <a href="assets/img/galery/pb3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" ><i class="bx bx-search"></i></a> 
+                <a href="assets/img/galery/pb3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-search"></i></a> 
               </div>
             </div>
           </div>
@@ -238,7 +238,7 @@
             <img src="assets/img/galery/pb4.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
               <div class="portfolio-links">
-                <a href="assets/img/galery/pb4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" ><i class="bx bx-search"></i></a> 
+                <a href="assets/img/galery/pb4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-search"></i></a> 
               </div>
             </div>
           </div>
