@@ -27,8 +27,8 @@
             </ul>
           </div>
 
-					<div class="col-lg-3 col-md-6 footer-contact">					
-					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d247.73216634895218!2d106.70816728502068!3d-6.557659005719342!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd8d3f729b76bf854!2zNsKwMzMnMjcuMyJTIDEwNsKwNDInMjkuNSJF!5e0!3m2!1sid!2sid!4v1664089669893!5m2!1sid!2sid" width="355" height="355" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+					<div class="col-lg-3 col-md-6 footer-contact">
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d247.73224701934407!2d106.70801048972983!3d-6.557496700906592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5e4991a36bb398b2!2zNsKwMzMnMjcuMCJTIDEwNsKwNDInMjkuNCJF!5e0!3m2!1sid!2sid!4v1664089805696!5m2!1sid!2sid"width="355" height="355" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>					
 					</div>
 
           <!-- <div class="col-lg-3 col-md-6 footer-links">
