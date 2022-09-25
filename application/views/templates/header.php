@@ -25,6 +25,7 @@
 	<meta property="twitter:image" content="assets/img/galery/p2.jpg">
 
   <!-- Favicons -->
+	<link rel="shortcut icon" href="assets/img/favicon.ico">
   <link href="assets/img/favicon.ico" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 	<link href="assets/img/android-chrome-192x192.png" rel="android-chrome">
