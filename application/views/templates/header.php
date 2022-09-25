@@ -5,9 +5,24 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Gelondong Emas</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  <!-- Primary Meta Tags -->
+	<title>Gelondong Emas Leonardi</title>
+	<meta name="title" content="Gelondong Emas Leonardi">
+	<meta name="description" content="Produsen Gelondong Emas Leonardi berlokasi di Jawa Barat, Indonesia. Kami hanya memproduksi gelondong emas dari besi lokal kualitas terbaik. ">
+
+	<!-- Open Graph / Facebook -->
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://gelondongemasleonardi.com/">
+	<meta property="og:title" content="Gelondong Emas Leonardi">
+	<meta property="og:description" content="Produsen Gelondong Emas Leonardi berlokasi di Jawa Barat, Indonesia. Kami hanya memproduksi gelondong emas dari besi lokal kualitas terbaik. ">
+	<meta property="og:image" content="">
+
+	<!-- Twitter -->
+	<meta property="twitter:card" content="summary_large_image">
+	<meta property="twitter:url" content="https://gelondongemasleonardi.com/">
+	<meta property="twitter:title" content="Gelondong Emas Leonardi">
+	<meta property="twitter:description" content="Produsen Gelondong Emas Leonardi berlokasi di Jawa Barat, Indonesia. Kami hanya memproduksi gelondong emas dari besi lokal kualitas terbaik. ">
+	<meta property="twitter:image" content="">
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
