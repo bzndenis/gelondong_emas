@@ -27,8 +27,8 @@
             </ul>
           </div>
 
-					<div class="col-lg-3 col-md-6 footer-contact">
-					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d990.9292363911168!2d106.70877611037145!3d-6.5573717994622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69db5af460957d%3A0xccfa265ecd11dab4!2sJl.%20Raya%20Tanjakan%20Cinangneng%20No.64%2C%20Cibanteng%2C%20Kec.%20Ciampea%2C%20Kabupaten%20Bogor%2C%20Jawa%20Barat%2016620!5e0!3m2!1sid!2sid!4v1664089433234!5m2!1sid!2sid" width="355" height="355" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+					<div class="col-lg-3 col-md-6 footer-contact">					
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d247.73216634895218!2d106.70816728502068!3d-6.557659005719342!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd8d3f729b76bf854!2zNsKwMzMnMjcuMyJTIDEwNsKwNDInMjkuNSJF!5e0!3m2!1sid!2sid!4v1664089669893!5m2!1sid!2sid" width="355" height="355" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 					</div>
 
           <!-- <div class="col-lg-3 col-md-6 footer-links">
