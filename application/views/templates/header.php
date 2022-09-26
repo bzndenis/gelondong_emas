@@ -9,6 +9,12 @@
 	<title>Gelondong Emas Leonardi</title>
 	<meta name="title" content="Gelondong Emas Leonardi">
 	<meta name="description" content="Produsen Gelondong Emas Leonardi berlokasi di Jawa Barat, Indonesia. Kami hanya memproduksi gelondong emas dari besi lokal kualitas terbaik. ">
+  <meta name="keywords" content="gelondong emas, gelondong, harga gelondong emas, mesin gelondong emas, apparatus gelondong">
+  <meta name="robots" content="index,follow">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="language" content="English">
+  <meta name="revisit-after" content="1 day">
+  <meta name="author" content="Bekoy">
 
 	<!-- Open Graph / Facebook -->
 	<meta property="og:type" content="website">
