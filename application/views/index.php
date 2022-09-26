@@ -352,7 +352,7 @@
               <div class="info-box mt-4">
                 <i class="bx bx-envelope"></i>
                 <h3>Email Us</h3>
-                <p>info@example.com<br>contact@example.com</p>
+                <p>goc@gelondongemasleonardi.com</p>
               </div>
             </div>
             <div class="col-md-6">
