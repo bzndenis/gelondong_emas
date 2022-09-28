@@ -24,7 +24,7 @@
     <div class="container" data-aos="fade-up">
       <div class="section-title">
         <h2>Tentang Kami</h2>
-        <p>Gelondong emas Leonardi adalah pengrajin besi terkemuka di Indonesia. Kami adalah perusahaan yang bergerak di bidang manufaktur kusus produk pengolah emas dengan bahan berkualitas tinggi. Kami bergerak sejak tahun 2006 hingga saat ini
+        <p>Gelondong emas Leonardi adalah pengrajin besi terkemuka di Indonesia. Kami adalah perusahaan yang bergerak di bidang manufaktur khusus produk pengolah emas dengan bahan berkualitas tinggi. Kami bergerak sejak tahun 2006 hingga saat ini
         </p>
       </div>
 
@@ -425,7 +425,7 @@
               <div class="info-box mt-4">
                 <i class="bx bx-phone-call"></i>
                 <h3>Kontak Kami</h3>
-                <p>+62 812-1112-1747<br>Hilwa Mumtaza</p>
+                <p>+62 821-2341-9704<br>Hilwa Mumtaza</p>
               </div>
             </div>
           </div>

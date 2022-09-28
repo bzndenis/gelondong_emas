@@ -11,7 +11,7 @@
 						Jl. Raya Tanjakan Cinangneng No 63<br>
 						Kel. Cibanteng, Kec. Ciampea.<br>
 						Bogor, Jawa Barat. 16620.<br><br>
-              <strong>Phone:</strong> +62 812-1112-1747<br>
+              <strong>Phone:</strong> +62 821-2341-9704<br>
               <strong>CP:</strong> Hilwa Mumtaza<br>
             </p>
           </div>
