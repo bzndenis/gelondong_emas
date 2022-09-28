@@ -91,7 +91,7 @@
       "ctaText":"Chat Sekarang",
       "borderRadius":"25",
       "autoShow":false,
-      "phoneNumber":"6281211121747"
+      "phoneNumber":"6282123419704"
   }
 };
     s.onload = function() {
