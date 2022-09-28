@@ -339,51 +339,51 @@
         <div class="row">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/team-1.jpg" alt="">
+              <img src="assets/img/1_Leonardi.png" alt="">
               <h4>Leonardi</h4>
               <span>Founder</span>
               <p>
 							"mengkhawatirkan hari esok adalah kemunafikan dalam pikiran"
               </p>
               <div class="social">
-                <a href=""><i class="bi bi-twitter"></i></a>
+                <!-- <a href=""><i class="bi bi-twitter"></i></a> -->
                 <a href=""><i class="bi bi-facebook"></i></a>
                 <a href=""><i class="bi bi-instagram"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
+                <!-- <a href=""><i class="bi bi-linkedin"></i></a> -->
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/team-2.jpg" alt="">
+              <img src="assets/img/2_Jumena.png" alt="">
               <h4>Jumena</h4>
               <span>Co Founder</span>
               <p>
 							"mendedikasikan diri kepada orang sekitar adalah kemulyaan"
               </p>
               <div class="social">
-                <a href=""><i class="bi bi-twitter"></i></a>
+                <!-- <a href=""><i class="bi bi-twitter"></i></a> -->
                 <a href=""><i class="bi bi-facebook"></i></a>
                 <a href=""><i class="bi bi-instagram"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
+                <!-- <a href=""><i class="bi bi-linkedin"></i></a> -->
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/team-3.jpg" alt="">
+              <img src="assets/img/3_Hilwa.png" alt="">
               <h4>Hilwa</h4>
               <span>Business Development</span>
               <p>
 							"Yang terpenting bukan seberapa banyak strategi yang kita tahu, tetapi seberapa cepat kita menjalankan strategi tersebut untuk mencapai kesuksesan"
               </p>
               <div class="social">
-                <a href=""><i class="bi bi-twitter"></i></a>
+                <!-- <a href=""><i class="bi bi-twitter"></i></a> -->
                 <a href=""><i class="bi bi-facebook"></i></a>
                 <a href=""><i class="bi bi-instagram"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
+                <!-- <a href=""><i class="bi bi-linkedin"></i></a> -->
               </div>
             </div>
           </div>
