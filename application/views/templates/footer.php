@@ -13,7 +13,13 @@
 						Bogor, Jawa Barat. 16620.<br><br>
               <strong>Phone:</strong> +62 821-2341-9704<br>
               <strong>CP:</strong> Hilwa Mumtaza<br>
-            </p>
+            </p> <br>
+            <div class="social">                
+                <a href="https://www.facebook.com/profile.php?id=100086092400921"><i class="bi bi-facebook"></i></a>
+                <!-- <a href=""><i class="bi bi-instagram"></i></a> -->
+								<!-- <a href=""><i class="bi bi-twitter"></i></a> -->
+                <!-- <a href=""><i class="bi bi-linkedin"></i></a> -->
+              </div>
           </div>
 
           <div class="col-lg-2 col-md-6 footer-links">
@@ -27,10 +33,12 @@
             </ul>
           </div>
 
-					<div class="col-lg-3 col-md-6 footer-contact">
+					<div class="col-lg-3 col-md-3 footer-contact">
 					<iframe src="https://maps.google.com/maps?width=100%25&amp;height=1000&amp;hl=en&amp;q=-6.5532246,106.7022464+(Gelondong%20Emas%20Leonardi)&amp;t=&amp;z=19&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"width="355" height="355" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>					
 					</div>
+          
 
+          
           <!-- <div class="col-lg-3 col-md-6 footer-links">
             <h4>Our Services</h4>
             <ul>

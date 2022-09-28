@@ -418,7 +418,7 @@
               <div class="info-box mt-4">
                 <i class="bx bx-envelope"></i>
                 <h3>Email Us</h3>
-                <p>goc@gelondongemasleonardi.com</p>
+                <p>goc@gelondongemasleonardi.com</p><br><p></p>
               </div>
             </div>
             <div class="col-md-6">
