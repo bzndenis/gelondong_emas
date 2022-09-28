@@ -6,7 +6,7 @@
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-contact">
-            <h3>Gelondong Emas<span>.</span></h3>
+            <h3>Gelondong Emas Leonardi<span>.</span></h3>
             <p>
 						Jl. Raya Tanjakan Cinangneng No 63<br>
 						Kel. Cibanteng, Kec. Ciampea.<br>
@@ -28,7 +28,7 @@
           </div>
 
 					<div class="col-lg-3 col-md-6 footer-contact">
-					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d247.73224701934407!2d106.70801048972983!3d-6.557496700906592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5e4991a36bb398b2!2zNsKwMzMnMjcuMCJTIDEwNsKwNDInMjkuNCJF!5e0!3m2!1sid!2sid!4v1664089805696!5m2!1sid!2sid"width="355" height="355" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>					
+					<iframe src="https://maps.google.com/maps?width=100%25&amp;height=1000&amp;hl=en&amp;q=-6.5532246,106.7022464+(Gelondong%20Emas%20Leonardi)&amp;t=&amp;z=19&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"width="355" height="355" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>					
 					</div>
 
           <!-- <div class="col-lg-3 col-md-6 footer-links">
@@ -85,7 +85,7 @@
       "brandName":"Gelondong Emas Leonardi",
       "brandSubTitle":"",
       "brandImg":"assets/img/logo.png",
-      "welcomeText":"Hallo!\nAda yang bisa di bantu?",
+      "welcomeText":"Hallo!\nAda yang bisa di bantu? 😇",
       "messageText":"Halo, saya tertarik dengan produk anda dan saya ingin memesan.",
       "backgroundColor":"#0a5f54",
       "ctaText":"Chat Sekarang",
