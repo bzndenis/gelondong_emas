@@ -16,8 +16,8 @@
             </p> <br>
             <div class="social">                
                 <a href="https://www.facebook.com/profile.php?id=100086092400921"><i class="bi bi-facebook"></i></a>
-                <!-- <a href=""><i class="bi bi-instagram"></i></a> -->
-								<!-- <a href=""><i class="bi bi-twitter"></i></a> -->
+                <a href="https://instagram.com/gelondongemas"><i class="bi bi-instagram"></i></a>
+								<a href="http://tiktok.com/@gelondongemasleon"><i class="bi bi-tiktok"></i></a>
                 <!-- <a href=""><i class="bi bi-linkedin"></i></a> -->
               </div>
           </div>
@@ -34,7 +34,7 @@
           </div>
 
 					<div class="col-lg-3 col-md-3 footer-contact">
-					<iframe src="https://maps.google.com/maps?width=100%25&amp;height=1000&amp;hl=en&amp;q=-6.5532246,106.7022464+(Gelondong%20Emas%20Leonardi)&amp;t=&amp;z=19&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"width="355" height="355" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>					
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d990.9371487227598!2d106.70169682922833!3d-6.553390667361776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf76d70854ad73287!2zNsKwMzMnMTIuMiJTIDEwNsKwNDInMDguMSJF!5e0!3m2!1sen!2sid!4v1664981702631!5m2!1sen!2sid" width="355" height="355" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>				
 					</div>
           
 

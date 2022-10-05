@@ -347,8 +347,8 @@
               </p>
               <div class="social">
                 <!-- <a href=""><i class="bi bi-twitter"></i></a> -->
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href="https://www.facebook.com/profile.php?id=100011084671449"><i class="bi bi-facebook"></i></a>
+                <a href="https://www.instagram.com/virgiawanleonardi_"><i class="bi bi-instagram"></i></a>
                 <!-- <a href=""><i class="bi bi-linkedin"></i></a> -->
               </div>
             </div>
@@ -364,8 +364,8 @@
               </p>
               <div class="social">
                 <!-- <a href=""><i class="bi bi-twitter"></i></a> -->
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href="https://www.facebook.com/awan.b.bintang"><i class="bi bi-facebook"></i></a>
+                <a href="https://instagram.com/motsjumena"><i class="bi bi-instagram"></i></a>
                 <!-- <a href=""><i class="bi bi-linkedin"></i></a> -->
               </div>
             </div>
@@ -381,8 +381,8 @@
               </p>
               <div class="social">
                 <!-- <a href=""><i class="bi bi-twitter"></i></a> -->
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href="https://www.facebook.com/hilwa.mumtaza.9"><i class="bi bi-facebook"></i></a>
+                <a href="https://instagram.com/hilwamumtaza"><i class="bi bi-instagram"></i></a>
                 <!-- <a href=""><i class="bi bi-linkedin"></i></a> -->
               </div>
             </div>
