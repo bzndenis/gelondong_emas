@@ -74,8 +74,8 @@
           <li><a class="nav-link scrollto active" href="#hero"><i class="bx bxs-home"></i></a></li>
           <li><a class="nav-link scrollto" href="#tabs">Tentang</a></li>
           <li><a class="nav-link scrollto" href="#services">Fitur</a></li>
-          <li><a class="nav-link scrollto " href="#pricing">Produk</a></li>
           <li><a class="nav-link scrollto" href="#portfolio">Galeri</a></li>
+          <li><a class="nav-link scrollto " href="#team">Team</a></li>
           
           
           <!-- <li><a class="nav-link scrollto" href="#contact">Contact</a></li> -->
